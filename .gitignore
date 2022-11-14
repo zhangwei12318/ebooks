@@ -1,0 +1,4 @@
+#忽略test.css
+test.css
+#忽略test目录下的所有文件
+node_modules/
